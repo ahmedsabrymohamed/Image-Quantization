@@ -1,0 +1,3 @@
+C:\Users\A\Desktop\Startup-Code\Startup Code\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\A\Desktop\Startup-Code\Startup Code\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\A\Desktop\Startup-Code\Startup Code\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
